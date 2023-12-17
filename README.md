@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Avanzando poco a poco
+Este repositorio es del modulo 2 del prep course de Henry
